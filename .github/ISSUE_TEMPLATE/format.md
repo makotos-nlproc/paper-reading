@@ -1,6 +1,7 @@
 ---
 name: Paper Survey Format
-title:  "Title"
+about: format for paper survey
+title:  "<title>"
 date:   YYYY-MM-DD
 
 ---
